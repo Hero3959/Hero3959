@@ -1,4 +1,4 @@
-<h1 align="center">🎤 Hatsune Miku · 39</h1>
+<h1 align="center">🎤 idk · 39</h1>
 
 <p align="center">
   <img src="./banner.jpg" alt="Hatsune Miku" width="100%">
